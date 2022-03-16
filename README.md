@@ -11,7 +11,7 @@ Copied the SVG into the HTML code
 Use Gsap to animate a cool Text Pop up
 
 
-![a cookie](cookie.png)
+![a cookie](https://github.com/Johnsonj91/CookieAnimation/blob/master/cookie.PNG)
 
 
 
